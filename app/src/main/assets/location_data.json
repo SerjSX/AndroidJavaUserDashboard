@@ -1,0 +1,132 @@
+[
+  {
+    "district": "Akkar",
+    "governorate": "Akkar",
+    "cities": ["Halba", "Qobayat", "Bireh", "Rahbeh", "Miniara", "Bibnine", "Meshmesh", "Fneidek", "Abdeh"]
+  },
+  {
+    "district": "Aley",
+    "governorate": "Mount Lebanon",
+    "cities": ["Aley", "Bhamdoun", "Souq El Gharb", "Choueifat", "Khaldeh", "Aramoun", "Bsoous", "Kahale", "Qmatiye"]
+  },
+  {
+    "district": "Baabda",
+    "governorate": "Mount Lebanon",
+    "cities": ["Baabda", "Hazmieh", "Hadath", "Chiyah", "Furn El Chebbak", "Yarze", "Hammana", "Falougha", "Kfarshima", "Wadi Chahrour"]
+  },
+  {
+    "district": "Baalbek",
+    "governorate": "Baalbek-Hermel",
+    "cities": ["Baalbek", "Arsal", "Chmestar", "Brital", "Deir El Ahmar", "Yammouneh", "Ras Baalbek", "Labweh"]
+  },
+  {
+    "district": "Batroun",
+    "governorate": "North",
+    "cities": ["Batroun", "Chekka", "Tannourine", "Hamat", "Douma", "Basbina", "Ijdabra"]
+  },
+  {
+    "district": "Beirut",
+    "governorate": "Beirut",
+    "cities": ["Achrafieh", "Hamra", "Ras Beirut", "Verdun", "Mazraa", "Mussaitbeh", "Gemmayze", "Mar Mikhael", "Badaro"]
+  },
+  {
+    "district": "Bint Jbeil",
+    "governorate": "Nabatieh",
+    "cities": ["Bint Jbeil", "Rmeish", "Ain Ebel", "Tibnine", "Yaroun", "Baraachit"]
+  },
+  {
+    "district": "Bsharri",
+    "governorate": "North",
+    "cities": ["Bsharri", "Cedars (Al Arz)", "Hasroun", "Dimane", "Hadath El Jebbeh", "Bekaa Kafra"]
+  },
+  {
+    "district": "Chouf",
+    "governorate": "Mount Lebanon",
+    "cities": ["Beiteddine", "Deir El Qamar", "Barouk", "Damour", "Naameh", "Jiyyeh", "Semqanieh", "Baakline", "Moukhtara", "Dibbiyeh"]
+  },
+  {
+    "district": "Hasbaya",
+    "governorate": "Nabatieh",
+    "cities": ["Hasbaya", "Chebaa", "Kfeir", "Khalwat El Bayada", "Mari"]
+  },
+  {
+    "district": "Hermel",
+    "governorate": "Baalbek-Hermel",
+    "cities": ["Hermel", "Qasr", "Chowaghir"]
+  },
+  {
+    "district": "Jbeil (Byblos)",
+    "governorate": "Keserwan-Jbeil",
+    "cities": ["Jbeil", "Amchit", "Qartaba", "Ehmej", "Laklouk", "Aqoura", "Nahr Ibrahim", "Halat", "Fidar"]
+  },
+  {
+    "district": "Jezzine",
+    "governorate": "South",
+    "cities": ["Jezzine", "Bkassine", "Kfar Houné", "Roum", "Lbaa", "Aishiyeh"]
+  },
+  {
+    "district": "Keserwan",
+    "governorate": "Keserwan-Jbeil",
+    "cities": ["Jounieh", "Zouk Mikael", "Zouk Mosbeh", "Kaslik", "Adma", "Ghazir", "Kfardebian", "Faraya", "Mayrouba", "Rayfoun", "Ajaltoun", "Jeita"]
+  },
+  {
+    "district": "Koura",
+    "governorate": "North",
+    "cities": ["Amioun", "Enfeh", "Deddeh", "Kousba", "Ras Maska", "Btourram", "Kfarhata"]
+  },
+  {
+    "district": "Marjeyoun",
+    "governorate": "Nabatieh",
+    "cities": ["Marjeyoun", "Khiam", "Qlayaa", "Ebel Es Saqi", "Taybeh"]
+  },
+  {
+    "district": "Matn",
+    "governorate": "Mount Lebanon",
+    "cities": ["Jdeideh", "Dora", "Bouchrieh", "Sin El Fil", "Dekwaneh", "Mansourieh", "Broummana", "Beit Mery", "Bikfaya", "Antelias", "Jal El Dib", "Dbayeh", "Cornet Chahwan", "Rabieh"]
+  },
+  {
+    "district": "Minieh-Dannieh",
+    "governorate": "North",
+    "cities": ["Minieh", "Sir Al Dannieh", "Bakhoun", "Deir Ammar", "Beddawi"]
+  },
+  {
+    "district": "Nabatieh",
+    "governorate": "Nabatieh",
+    "cities": ["Nabatieh", "Habbouch", "Kfar Roummane", "Ansar", "Douair", "Jibchit"]
+  },
+  {
+    "district": "Rashaya",
+    "governorate": "Beqaa",
+    "cities": ["Rashaya Al Wadi", "Kfeir", "Rafid", "Yanta", "Bakka"]
+  },
+  {
+    "district": "Sidon (Saida)",
+    "governorate": "South",
+    "cities": ["Sidon", "Abra", "Haret Saida", "Maghdouche", "Ghazieh", "Salhieh", "Hilaliyeh", "Ain El Delb"]
+  },
+  {
+    "district": "Tripoli",
+    "governorate": "North",
+    "cities": ["Tripoli", "El Mina", "Qalamoun", "Bahsas"]
+  },
+  {
+    "district": "Tyre (Sour)",
+    "governorate": "South",
+    "cities": ["Tyre", "Naqoura", "Qana", "Jouaiya", "Abbasiyeh", "Burj El Shemali", "Srifa"]
+  },
+  {
+    "district": "West Bekaa",
+    "governorate": "Beqaa",
+    "cities": ["Joub Jannine", "Machghara", "Qaraoun", "Saghbine", "Kamed El Loz"]
+  },
+  {
+    "district": "Zahle",
+    "governorate": "Beqaa",
+    "cities": ["Zahle", "Chtaura", "Rayak", "Saadnayel", "Taalabaya", "Barelias", "Majdal Anjar", "Qab Elias", "Furzol"]
+  },
+  {
+    "district": "Zgharta",
+    "governorate": "North",
+    "cities": ["Zgharta", "Ehden", "Majdalaya", "Rachiine", "Kfar Dlakos"]
+  }
+]
